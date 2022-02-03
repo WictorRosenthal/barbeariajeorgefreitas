@@ -1,6 +1,6 @@
 
 header *{
-    position: absolute;
+    position: fixed;
     background-color:  #a2a29d;
     background-size: cover;
     background-position: top center;
