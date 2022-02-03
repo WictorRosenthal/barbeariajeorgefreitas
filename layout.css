@@ -1,5 +1,5 @@
 
-header {
+header *{
     position: relative;
     background-color:  #a2a29d;
     background-size: cover;
@@ -14,6 +14,7 @@ nav {
     margin: 10px auto;
 }
 header img {
+    background-repeat: no-repeat;
     width: 100px;
     height: 100px;
 }
