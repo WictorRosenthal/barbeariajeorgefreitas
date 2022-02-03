@@ -4,7 +4,7 @@ header *{
     background-color:  #a2a29d;
     background-size: cover;
     background-position: top center;
-    width: 100%;
+    width: 50%;
     height: 50vh;
     clip-path: polygon(0 0, 102% 0, 100% 97%, 0 100%);
 }
