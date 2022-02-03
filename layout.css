@@ -1,19 +1,15 @@
 
 header *{
-    position: relative;
+    position: absolute;
     background-color:  #a2a29d;
     background-size: cover;
     background-position: top center;
-    width: 50%;
-    height: 50vh;
+    width: 100%;
+    height: 100vh;
     clip-path: polygon(0 0, 102% 0, 100% 97%, 0 100%);
 }
-nav {
-    width: 95%;
-    height: 200px;
-    margin: 10px auto;
-}
-header img {
+
+header img *{
     background-repeat: no-repeat;
     width: 100px;
     height: 100px;
