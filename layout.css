@@ -8,7 +8,11 @@ header *{
     height: 100vh;
     clip-path: polygon(0 0, 102% 0, 100% 97%, 0 100%);
 }
-
+nav {
+    width: 95%;
+    height: 200px;
+    margin: 10px auto;
+}
 header img *{
     background-repeat: no-repeat;
     width: 100px;
